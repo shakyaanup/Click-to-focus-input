@@ -47,27 +47,27 @@ I built this project to:
 
 ---
 
-## How to Run Locally
+# How to Run Locally 
 
-# 1. Clone this repository:#
+## 1. Clone this repository:
 ```bash
 git clone https://github.com/yourusername/click-to-focus-input.git
 ```
 
-# 2 Go to the project folder:#
+## 2 Go to the project folder:
 ```bash
 cd click-to-focus-input
 ```
 
 
-# 3. Install dependencies:#
+## 3. Install dependencies:#
 ```bash
 npm install
 ```
 
 
-# 4. Start the development server:#
+## 4. Start the development server:#
 ```bash
 npm start
-```
+``
 
