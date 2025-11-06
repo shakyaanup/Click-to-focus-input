@@ -1,6 +1,6 @@
 # 🖱️ Click-to-Focus Input
 
-A simple React project that lets you focus an input box by clicking a button — built as part of my **React Mastery Roadmap (Day 10: useRef)**.
+A simple React project that lets you focus an input box by clicking a button — built as part of my **React Mastery Roadmap**.
 
 ---
 
@@ -20,7 +20,6 @@ I built this project to:
 
 - **React** (Functional Components + Hooks)
 - **JavaScript (ES6+)**
-- **CSS inline styling**
 
 ---
 
@@ -53,16 +52,22 @@ I built this project to:
 # 1. Clone this repository:#
 ```bash
 git clone https://github.com/yourusername/click-to-focus-input.git
+```
 
 # 2 Go to the project folder:#
 ```bash
 cd click-to-focus-input
+```
+
 
 # 3. Install dependencies:#
 ```bash
 npm install
+```
+
 
 # 4. Start the development server:#
 ```bash
 npm start
+```
 
